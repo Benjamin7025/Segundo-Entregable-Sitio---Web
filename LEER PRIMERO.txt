@@ -1,0 +1,3 @@
+HOLA MAESTRO Willis Polanco Caraballo, De ante mano queremos decirle lo siguente: Se pensó que la Api era opcional y cuando una de nuestras compañeras pregunto nos dimos cuenta que era un requisito del proyecto y tuvimos que reestructurar.
+
+Por tal razón hay dos proyectos, Uno se llama Bolsa_de_EmpleosMVC, El otro se llama Bolsa_EmpleadosApi
